@@ -82,11 +82,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ChatApp',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'AmitKumar',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
 }
+
 
 
 # Password validation
